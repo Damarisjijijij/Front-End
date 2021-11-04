@@ -1,0 +1,33 @@
+*{
+	font-family:impact, 'PT Sans', Verdana, sans-serif; ;
+}
+
+
+header{
+   margin-left: 0px;
+   text-align: center;
+}
+h1{
+	background-color: #088A08;
+	color: #ffffff;	
+}
+img:hover{
+	opacity: 0.5;
+}
+a{
+	text-decoration: none;
+	color: #ffffff;	
+}
+ul>li{
+	list-style: none;
+	display: inline;
+	margin-left: 200px;
+	font-size: 1.5em;
+	
+}
+nav{
+	background-color: #088A08;
+}
+#acercade{
+	background-color: ;
+}
